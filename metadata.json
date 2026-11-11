@@ -1,0 +1,10 @@
+{
+  "name": "canvas(backup)",
+  "description": "A personal life archive application for tracking daily logs, habits, sleep, and more. Deployable to Netlify.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
