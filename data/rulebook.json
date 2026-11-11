@@ -1,0 +1,112 @@
+{
+  "categories": [
+    { "id": "finance", "name": "finance", "icon": "Bitcoin" },
+    { "id": "health", "name": "health", "icon": "Dumbbell" },
+    { "id": "self-growth", "name": "self-growth", "icon": "ChartSpline" },
+    { "id": "mindset", "name": "mindset", "icon": "BrainCircuit" }
+  ],
+  "rules": [
+    {
+      "id": "1",
+      "categoryId": "finance",
+      "title": "dont get satisfy at less",
+      "description": "if your income is less than 1 lakh then invest most of the anount in yourself to learn skill, and to earn more"
+    },
+    {
+      "id": "2",
+      "categoryId": "finance",
+      "title": "money should make more money",
+      "description": "invest you money to buy asset rather than keeping in bank"
+    },
+    {
+      "id": "3",
+      "categoryId": "finance",
+      "title": "Multiple Income source",
+      "description": "create multiple earning source, your should make money when you are sleeping too"
+    },
+    {
+      "id": "4",
+      "categoryId": "finance",
+      "title": "learn to earn",
+      "description": "kamana sikh, kharche kam karna nahi"
+    },
+    {
+      "id": "5",
+      "categoryId": "finance",
+      "title": "learn financial planning",
+      "description": "learn finiancial terms, trading, investing, saving, assest building etc"
+    },    
+    {
+      "id": "6",
+      "categoryId": "health",
+      "title": "no addiction",
+      "description": "nasha mat karn kabhi please!!"
+    },
+    {
+      "id": "7",
+      "categoryId": "health",
+      "title": "GYM ja",
+      "description": "go to GYM, not for health but for good posture, and look!"
+    },
+    {
+      "id": "8",
+      "categoryId": "self-growth",
+      "title": "1-Minute Rule",
+      "description": "complete the task, which takes less than a minute"
+    },
+    {
+      "id": "9",
+      "categoryId": "self-growth",
+      "title": "Daily Learning",
+      "description": "learn anything for atleast 45 min a day"
+    },
+    {
+      "id": "10",
+      "categoryId": "self-growth",
+      "title": "Network = Networth",
+      "description": "India is a country of contacts; aage wala bas tera naam yaad rakhe."
+    },
+    {
+      "id": "11",
+      "categoryId": "mindset",
+      "title": "fight till END",
+      "description": "Never resign after a blunder; even stalemate is a victory"
+    },
+    {
+      "id": "12",
+      "categoryId": "mindset",
+      "title": "Be Alone, Not Lonely",
+      "description": "No one going to save you, neither support you, even never cares dor you.. even parents, family"
+    },
+    {
+      "id": "13",
+      "categoryId": "mindset",
+      "title": "never revel your success",
+      "description": "nazar is real. apni success ko kisi ko mat bata, parents ko bhi nahi"
+    },
+    {
+      "id": "14",
+      "categoryId": "mindset",
+      "title": "BE Brave to do first",
+      "description": "dont expect from others to make a first move, when you have the white pieces!"
+    },
+    {
+      "id": "15",
+      "categoryId": "mindset",
+      "title": "Be patient",
+      "description": "Good things take time. sabar kar ke maarne me jo maza hai.."
+    },
+    {
+      "id": "16",
+      "categoryId": "mindset",
+      "title": "Dare to Dream",
+      "description": "bade goals set kar"
+    },
+    {
+      "id": "17",
+      "categoryId": "mindset",
+      "title": "never quit anything",
+      "description": "mai nachaunga toh barish hogi, kyu ki mai tab tak nachunga jah tak barish nahi hoti. mai hardwork karunga toh successful hounga, kyu ki jabtak mai successful nahi hota tab tak mai hardwork karunga"
+    }
+  ]
+}

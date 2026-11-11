@@ -1,0 +1,114 @@
+{
+  "currency": "INR",
+  "currencySymbol": "₹",
+  "activeWindow": {
+    "startMonth": "Apr",
+    "endMonth": "Sep",
+    "totalMonths": 6,
+    "maxRetentionMonths": 6,
+    "activeMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "description": "Strict 6-month rolling window. When Month 7 begins, Month 1 is dropped and will not be fetched."
+  },
+  "overview": {
+    "netWorth": 0,
+    "netWorthChange": 0,
+    "netWorthHistory": [
+      {
+        "month": "Apr",
+        "value": 0
+      },
+      {
+        "month": "May",
+        "value": 0
+      },
+      {
+        "month": "Jun",
+        "value": 0
+      },
+      {
+        "month": "Jul",
+        "value": 0
+      },
+      {
+        "month": "Aug",
+        "value": 0
+      },
+      {
+        "month": "Sep",
+        "value": 0
+      }
+    ],
+    "monthlyIncome": 0,
+    "monthlyIncomeChange": 0,
+    "monthlyExpenses": 0,
+    "monthlyExpensesChange": 0,
+    "savings": 0,
+    "savingsRate": 0
+  },
+  "expenseBreakdown": {
+    "total": 0,
+    "period": "This Month",
+    "categories": []
+  },
+  "incomeVsExpenses": [
+    {
+      "month": "Apr",
+      "income": 0,
+      "expenses": 0
+    },
+    {
+      "month": "May",
+      "income": 0,
+      "expenses": 0
+    },
+    {
+      "month": "Jun",
+      "income": 0,
+      "expenses": 0
+    },
+    {
+      "month": "Jul",
+      "income": 0,
+      "expenses": 0
+    },
+    {
+      "month": "Aug",
+      "income": 0,
+      "expenses": 0
+    },
+    {
+      "month": "Sep",
+      "income": 0,
+      "expenses": 0
+    }
+  ],
+  "financialGoals": [],
+  "budgets": [],
+  "investments": {
+    "totalInvested": 0,
+    "currentValue": 0,
+    "profit": 0,
+    "profitPercentage": 0,
+    "assets": []
+  },
+  "subscriptions": [],
+  "recentTransactions": [],
+  "financialHealthScore": {
+    "score": 0,
+    "maxScore": 100,
+    "metrics": []
+  },
+  "upcomingPayments": [],
+  "stats": {
+    "liquidity": 0,
+    "invested": 0,
+    "monthlyChange": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "memories": [
+    {
+      "id": "1",
+      "date": "2016-05-29",
+      "title": "kashmir trip",
+      "description": "kashmir trip with family: yaad hai kya, jata waqt train me kitna maja kiya tha, poora compartment gher liya tha, cards khel rahe the. psps log bisleri ke bottel me daru bhar ke gai the... waha jammu me hote liye tha, line jati thi toh pani bhi chale jata tha. waha market place thi wasa se RC car li thi... phir bus book karke kashmir gai the, vo tunnel me bhai 2-3 ghante phase huue the.. phir raat ko kashmir pooch ke sidha hotel book kiya aur soo gai, phir ye sab log vo mandir gai the but mai toh hotel me hi tha pappa ke saath(kya ulti ho rahi thi mujhe). washa se kitni jagha ghume, chashmish garden, koi toh bhi mandir, aur vhi bohat bhai... kya maja aaya tha.. ",
+      "category": "Travel",
+      "tags": ["family trip"],
+      "image": "https://i.ibb.co/G3FXdNZP/file-00000000e00c7207b8349dbd2dc13990.png",
+      "location": "kashmir"
+    },
+    {
+      "id": "2",
+      "date": "2025-01-26",
+      "title": "10th A",
+      "description": "10th A : yaad hai kya, kitna awesome time tha vo, padhai bhi acchi ho rahi thi, friends ke saath bhi class me, break ke itni masti karte the phir bhi class ke populat group hum hi the. saare Teachers ke favourite, itni memories hai. laxmi theorem, open the books, what is this chuda, Sanskrit me meri jo baji thi, pushpa the legend, yaar!!",
+      "category": "friends",
+      "tags": ["school","10A","friends"],
+      "image": "https://i.ibb.co/tMtNvrjz/IMG-20250126-WA0003.jpg",
+      "location": "SVN"
+    }
+  ]
+}

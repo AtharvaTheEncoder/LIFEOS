@@ -1,0 +1,33 @@
+[
+  {
+    "id": "health",
+    "category": "HEALTH",
+    "icon": "Activity",
+    "color": "#ff2d55",
+    "tasks": [
+      { "id": "water", "label": "Drink 4L Water" },
+      { "id": "pushups", "label": "50 Pushups" },
+      { "id": "stretch", "label": "Morning Stretch" }
+    ]
+  },
+  {
+    "id": "growth",
+    "category": "GROWTH",
+    "icon": "TrendingUp",
+    "color": "#ff9500",
+    "tasks": [
+      { "id": "reading", "label": "Read 20 Pages" },
+      { "id": "podcast", "label": "Listen to Podcast" },
+      { "id": "journaling", "label": "Daily Journaling" }
+    ]
+  },
+  {
+    "id": "routine",
+    "category": "ROUTINE",
+    "icon": "Zap",
+    "color": "#007aff",
+    "tasks": [
+      { "id": "skill", "label": "Learn New Skill" }
+    ]
+  }
+]

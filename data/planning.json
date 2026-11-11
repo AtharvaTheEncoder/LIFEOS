@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "2026 Resolution",
+    "subtitle": "MY New Year Resolutions (2026)",
+    "type": "flow",
+    "content": "this to achive in 2026",
+    "nodes": [
+      {
+        "id": "1",
+        "label": "Build a earning source",
+        "status": "todo"
+      },
+      {
+        "id": "2",
+        "label": "Start gym",
+        "status": "todo"
+      },
+      {
+        "id": "3",
+        "label": "Learn coding",
+        "status": "todo"
+      },
+      {
+        "id": "4",
+        "label": "start a YT channel",
+        "status": "todo"
+      },
+      {
+        "id": "5",
+        "label": "learn editing for earning",
+        "status": "todo"
+      },
+      {
+        "id": "6",
+        "label": "make 2026 successful",
+        "status": "todo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "GALI",
+    "subtitle": "GALI",
+    "type": "text",
+    "content": "Hindi,marathi shivya",
+    "textPoints": [
+      "लवाड वाडीच्या",
+      "भाडखाऊ",
+      "येडगंड्या",
+      "मंद बदक",
+      "ढापण्या",
+      "येडझवा"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Family planning",
+    "subtitle": "thing to do for my family",
+    "type": "text",
+    "content": "things to do for my family",
+    "textPoints": [
+      "after the birth of your Kid, test every, and diagnose it before its too late"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "10",
+      "title": "learn finincial education",
+      "category": "Skills",
+      "completed": false
+    },
+    {
+      "id": "1",
+      "title": "Solo trip",
+      "category": "Travel",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Start a business",
+      "category": "Career",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Start a YouTube channel",
+      "category": "Career",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Buy dream car, bike, cycle",
+      "category": "Lifestyle",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Buy/Renovate house",
+      "category": "Milestone",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "title": "Buy a premium drone",
+      "category": "Lifestyle",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Build a premium gaming setup",
+      "category": "Lifestyle",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "Buy a premium magnetic Rubik's Cube",
+      "category": "Hobby",
+      "completed": false
+    },
+    {
+      "id": "9",
+      "title": "Watch Pokémon (all seasons)",
+      "category": "Entertainment",
+      "completed": false
+    }
+  ]
+}

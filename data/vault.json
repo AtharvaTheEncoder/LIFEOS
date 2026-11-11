@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": "b4",
+      "title": "The Almanack of Naval Ravikant",
+      "author": "Eric Jorgenson",
+      "category": "Mindset",
+      "status": "finished",
+      "rating": 5,
+      "progress": 100,
+      "totalPages": 242,
+      "currentPage": 242,
+      "coverColor": "from-purple-500/20 to-rose-500/20",
+      "summary": "A guide to wealth, judgment, leverage, and happiness through clarity of thought.",
+      "keyTakeaways": [
+        "Seek wealth, not money or status. Wealth is having assets that earn while you sleep.",
+        "Arm yourself with specific knowledge, accountability, and leverage.",
+        "Code and media are permissionless leverage."
+      ],
+      "favoriteQuote": "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest."
+    }
+  ],
+  "skills": [
+    {
+      "id": "s3",
+      "title": "High-Impact Communication & Oratory",
+      "category": "Soft Skills",
+      "level": "Intermediate",
+      "progress": 55,
+      "target": "Communicate complex visions persuasively in writing and speech",
+      "milestones": [
+        {
+          "name": "Pyramid Principle for Executive Writing",
+          "completed": true
+        },
+        {
+          "name": "Narrative Arc & Story-Driven Presentations",
+          "completed": true
+        },
+        {
+          "name": "Impromptu Framing & Answering Tough Questions",
+          "completed": false
+        }
+      ],
+      "resources": [
+        "The Minto Pyramid Principle",
+        "Toastmasters Speech Manuals"
+      ]
+    }
+  ],
+  "mentalModels": [
+    {
+      "id": "m5",
+      "title": "Pareto Principle (80/20 Rule)",
+      "category": "Productivity",
+      "coreIdea": "80% of outcomes stem from 20% of causes. Identify and protect that 20% vital few.",
+      "origin": "Vilfredo Pareto",
+      "application": "Audit daily tasks, clients, and habits every month to eliminate the bottom 80% low-leverage noise.",
+      "tags": [
+        "Efficiency",
+        "Focus"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q3",
+      "quote": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "source": "The Way to Wealth",
+      "category": "Learning"
+    }
+  ]
+}
